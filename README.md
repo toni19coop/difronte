@@ -1,5 +1,5 @@
 # DIFRONTE
-Dipersona è un progetto che mette in rete cooperative di comunità, cooperative sociali, provider di servizi alla persona e tecnologici per fornire ai beneficiari dei servizi di cura un sistema di comunicazione e check-in. Per più info: https://mdq.19.coop/di-fronte/
+Difronte è un progetto che mette in rete cooperative di comunità, cooperative sociali, provider di servizi alla e tecnologici per fornire ai beneficiari dei servizi di cura un sistema di comunicazione e check-in. Per più info: https://mdq.19.coop/di-fronte/
 
 ## Il Progetto 
 ### beneficiari
