@@ -31,13 +31,16 @@ Il recupero dei rifiuti informatici è insieme il punto di partenza di due perco
 
 ## flusso ##
 1. recupero harware "obsoleto" - laptop o desktop completi e funzionanti tra 5 e 10 anni di vita
-2. ricondizionamento hardware recuperato - check, manutenzione, riparazione, installazioni
-3. configurazione e deploy terminali - il sistema di configurazione dei terminali è semi-automatizzato, può essere portato avanti da un non-professionista se formato
+2. ricondizionamento hardware recuperato - check hardware, manutenzione, riparazione, installazione: il vecchi terminali vengono installati dall'operatore (Lubuntu 18.04 LTS nei test - installazione minimale, in rete via Wi-Fi o ethernet)
+3. configurazione e deploy terminali - il sistema di configurazione dei terminali è semi-automatizzato, può essere quindi portato a termine da un non-professionista formato
+  - inserimento anagrafica terminale/utente sul gestore WP
+  - copia e lancio script post-installazione
+  - 
 4. consegna terminali e formazione
 5. comunicazioni sporadiche e periodiche tra beneficiari e caregiver
 
 ## tecnologie
- - https://lubuntu.me/ - distro di riferimento per l'installazione su hardware vecchio: leggera, performante, standard, facile da  - installare come qualsiasi ubuntu, altrettanto piena di driver e autoconfigurazioni audio-video
+ - https://lubuntu.me/ - distro di riferimento per l'installazione su hardware vecchio: leggera, performante, standard, facile da installare come qualsiasi ubuntu, altrettanto piena di driver e autoconfigurazioni audio-video
  - https://jitsi.org/ - set di tool per il videoconferencing basato su webrtc, installabile on premises https://jitsi.19.coop
  - https://www.wireguard.com/ - software VPN leggero, performante e adatto all'automazione
  - https://wordpress.org/ - gestore e monitor delle connessioni costruito su WP
