@@ -21,13 +21,13 @@ La Cooperativa di Comunità attinge per i servizi professionalizzati da una o pi
 
 Il progetto estrae valore economico per sostenersi nel tempo da due fonti:
 
-– la prima è quella derivante dal risparmio per il sistema dei servizi (sia sociali sia di infrastruttura digitale) 
-– la seconda è quella derivante dai profitti associati al recupero delle macchine obsolete 
-– la terza (stavamo scherzando!) è quella derivante dall’offerta di nuovi servizi specialistici 
+1. la prima è quella derivante dal risparmio per il sistema dei servizi (sia sociali sia di infrastruttura digitale) 
+2. la seconda è quella derivante dai profitti associati al recupero delle macchine obsolete 
+3. la terza (stavamo scherzando!) è quella derivante dall’offerta di nuovi servizi specialistici 
 
 Il recupero dei rifiuti informatici è insieme il punto di partenza di due percorsi: 
-– il primo porta alla realizzazione del hw necessario al sistema di videoconferenza 
-– il secondo invece porta alla creazione di lavoro per la produzione di hw ricondizionato per utilizzi diversificati 
+1. il primo porta alla realizzazione del hw necessario al sistema di videoconferenza 
+2. il secondo invece porta alla creazione di lavoro per la produzione di hw ricondizionato per utilizzi diversificati 
 
 ## flusso ##
 1. recupero harware "obsoleto" - laptop o desktop completi e funzionanti tra 5 e 10 anni di vita
@@ -37,8 +37,8 @@ Il recupero dei rifiuti informatici è insieme il punto di partenza di due perco
 5. comunicazioni sporadiche e periodiche tra beneficiari e caregiver
 
 ## tecnologie
-https://lubuntu.me/ - distro di riferimento per l'installazione su hardware vecchio: leggera, performante, standard, facile da installare come qualsiasi ubuntu, altrettanto piena di driver e autoconfigurazioni audio-video
-https://jitsi.org/ - set di tool per il videoconferencing basato su webrtc, installabile on premises https://jitsi.19.coop
-https://www.wireguard.com/ - software VPN leggero, performante e adatto all'automazione
-https://wordpress.org/ - gestore e monitor delle connessioni costruito su WP
-https://www.gnu.org/software/bash/ - il sistema di configurazione post-installazione è allo stato attuale uno script in bash. Solido, antico, hacker.
+ - https://lubuntu.me/ - distro di riferimento per l'installazione su hardware vecchio: leggera, performante, standard, facile da  - installare come qualsiasi ubuntu, altrettanto piena di driver e autoconfigurazioni audio-video
+ - https://jitsi.org/ - set di tool per il videoconferencing basato su webrtc, installabile on premises https://jitsi.19.coop
+ - https://www.wireguard.com/ - software VPN leggero, performante e adatto all'automazione
+ - https://wordpress.org/ - gestore e monitor delle connessioni costruito su WP
+ - https://www.gnu.org/software/bash/ - il sistema di configurazione post-installazione è allo stato attuale uno script in bash. Solido, antico, hacker.
