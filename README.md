@@ -48,5 +48,4 @@ Il recupero dei rifiuti informatici è insieme il punto di partenza di due perco
 
 ## files 
 
- - [postinst.sh]
- [I'm an inline-style link](https://www.google.com)
+ - [postinst.sh](postinst.sh) lo script poco interativo post installazione. Vive su una chiavetta, da tanciare in un terminale terminata l'installazione di Lubuntu
