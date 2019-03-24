@@ -1,4 +1,4 @@
-# dipersona
+# DIPERSONA
 Dipersona è un progetto che mette in rete cooperative di comunità, cooperative sociali, provider di servizi alla persona e tecnologici per fornire ai beneficiari dei servizi di cura un sistema di comunicazione e check-in. Per più info: https://mdq.19.coop/di-persona/
 
 ## Il Progetto 
@@ -33,10 +33,10 @@ Il recupero dei rifiuti informatici è insieme il punto di partenza di due perco
 1. recupero harware "obsoleto" - laptop o desktop completi e funzionanti tra 5 e 10 anni di vita
 2. ricondizionamento hardware recuperato - check hardware, manutenzione, riparazione, installazione: il vecchi terminali vengono installati dall'operatore (Lubuntu 18.04 LTS nei test - installazione minimale, in rete via Wi-Fi o ethernet)
 3. configurazione e deploy terminali - il sistema di configurazione dei terminali è semi-automatizzato, può essere quindi portato a termine da un non-professionista formato
-  - inserimento anagrafica terminale/utente sul gestore WP
+  - inserimento anagrafica del terminale e dell'utente sul gestore WP
   - copia e lancio script post-installazione
-  - 
-4. consegna terminali e formazione
+  - riavvio e test connettività
+4. consegna terminali, connessione e formazione
 5. comunicazioni sporadiche e periodiche tra beneficiari e caregiver
 
 ## tecnologie
