@@ -61,7 +61,7 @@ echo "${sudopswd}" | sudo -S chmod o-w rc.local
 reset
 
 echo "\e[92mL'installazione è stata conclusa con successo!!\e[0m"
-echo "\e[96mÈ il momento di registrare l'utente sul portale Dipersona\e[0m"
+echo "\e[96mÈ il momento di registrare l'utente sul portale DiFronte\e[0m"
 echo "\e[95mVisita questo sito: \e[4mhttps://manage.dipersona.19.coop\e[24m e inserisci i seguenti dati\e[0m"
 echo "Nome utente: $USER"
 echo "Chiave pubblica: $PUBLICKEY"
